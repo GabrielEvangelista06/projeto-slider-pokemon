@@ -10,7 +10,7 @@ Projeto criado durante o evento mapaDevWeek, com o intuito de praticar minhas ha
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![](./src/imagens/print-projeto.png#vitrinedev)
+![](https://lh3.googleusercontent.com/pw/AL9nZEXkRKFOFa1L7rL8svUdiIF52dR5nbNFwaV79TfW3CWd6PK8Bxzfl_vl7ZgAT71VcUooj9WjsBq4mQ2aM6guXjOxzRX526aNdmcgLVDt8l50rrXGxLMt11Stij_87MsnsqkNaHrdyZ7AdPHMXb4oe3k=w1597-h796-no?authuser=0#vitrinedev)
 
 ## Detalhes do projeto
 
